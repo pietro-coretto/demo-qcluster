@@ -1,7 +1,7 @@
 <!-- Created: 03-09-2026 | Authors: Pietro Coretto and Luca Coraggio -->
 
-QCLUSTER DEMO
-=============
+THE QCLUSTER PACKAGE DEMO
+=========================
 
 CLUSTERING SELECTION BY HELD-OUT QUADRATIC SCORING
 --------------------------------------------------
@@ -35,12 +35,6 @@ Once the target notion of cluster is fixed, everything else becomes comparable. 
 install.packages("qcluster")
 install.packages("mclust")   ## used by one section of Part II only
 ```
-
-The demo is based on small real dataset (the `banknote` dataset). First, we give a  simple case, then we inroduce to the advanced use of software. Hence, the walkthrough is in two parts.
-
-- Part I is a five-call recipe for a first use.
-
-- Part II is for the reader who wants to build the candidate list, bring in methods the package does not implement, reduce a long list before spending time on it, and control the ranking and selection rules.
 
 
 ## CITING
