@@ -1,7 +1,7 @@
 <!-- Created: 03-09-2026 | Authors: Pietro Coretto and Luca Coraggio -->
 
-THE QCLUSTER PACKAGE DEMO
-=========================
+QCLUSTER DEMO
+=============
 
 CLUSTERING SELECTION BY HELD-OUT QUADRATIC SCORING
 --------------------------------------------------
